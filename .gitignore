@@ -7,9 +7,14 @@
 *.so
 *.obj
 
-# Eclipse specifics
+# Eclipse specifics #
+###################
 *.cproject
 *.project
 Release
 Debug
 .settings
+
+# OS specifics #
+###################
+Thumbs.db
